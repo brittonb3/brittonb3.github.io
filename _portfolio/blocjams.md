@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: Build a production quality SaaS app that allows users to create their own wikis.
+title: Bloc Jams
+thumbnail-path: "img/blocflix.png"
+short-description: Bloc Jams is a replica of a music player app.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/blocflix.png)
 
 ## Explanation
 
