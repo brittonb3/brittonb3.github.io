@@ -2,7 +2,7 @@
 layout: post
 title: Bloccit
 thumbnail-path: "img/blocflix.png"
-short-description: Bloc Jams is a replica of a music player app.
+short-description: Bloccit.
 
 ---
 

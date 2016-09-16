@@ -10,3 +10,4 @@ short-description: Build a self-destructing to-do list application.
 ![]({{ site.baseurl }}/img/blocitoff.png)
 
 ## Explanation
+Blocitoff is a self-destructing to-do list application. 
