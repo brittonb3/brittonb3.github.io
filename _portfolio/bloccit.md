@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Bloccit
-thumbnail-path: "img/blocflix.png"
+thumbnail-path: "img/Bloccit.png"
 short-description: Bloccit.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/Bloccit.png)
 
 ## Explanation
 
