@@ -2,7 +2,7 @@
 layout: post
 title: Bloccit
 thumbnail-path: "img/Bloccit.png"
-short-description: Bloccit.
+short-description: Bloccit is a Reddit replica that lets users post, comment and vote on Bloccit content.
 
 ---
 
@@ -11,4 +11,18 @@ short-description: Bloccit.
 
 ## Explanation
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+## Bloccit:
+  Bloccit is a Reddit replica that lets users post, comment and vote on bloccit content.
+
+Made with my mentor at [Bloc](http://bloc.io).
+
+## Made with
+* Ruby on Rails
+* AJAX
+* Bootstrap
+
+## Bloccit Features
+* Users are albe to view public topics, posts, or comments.
+* Users can create an account and make private topics and posts.
+* Users can vote for posts they like and vote the posts up or down.
+* Users can use Markdown.
