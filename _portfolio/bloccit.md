@@ -7,7 +7,7 @@ short-description: Bloccit is a Reddit replica that lets users post, comment and
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/Bloccit.png)
+[<img src="/img/Bloccit.png">]( https://fast-hollows-73224.herokuapp.com/)
 
 ## Explanation
 

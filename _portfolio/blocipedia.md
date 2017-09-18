@@ -9,6 +9,7 @@ short-description: Built a production quality SaaS app that allows users to crea
 {:.center}
 ![]({{ site.baseurl }}/img/blocipedia.png)
 
+
 ## Explanation
 
 ## Blocipedia:
